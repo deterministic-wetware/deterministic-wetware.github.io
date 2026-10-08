@@ -1,0 +1,2 @@
+- [Storage locations](storage-locations.md) — memories go in .claude/memory, temp files in .claude/tmp
+- [Blank line after comments](blank-line-after-comments.md) — always leave an empty line between a comment and the code below it
