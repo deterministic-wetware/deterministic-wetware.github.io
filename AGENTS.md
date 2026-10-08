@@ -6,6 +6,7 @@ Static GitHub Pages site for Deterministic Wetware.
 
 - `index.html` — landing page (Articles, Games).
 - `ai-defender/` — prebuilt game bundle (Vite output with hashed asset names). Don't hand-edit it; refresh it with `make update-ai-defender`.
+- `style.css` — stylesheet for `index.html`.
 - `images/` — site images. `ai-defender.png` is copied from `ai-defender/assets/Ship-*.png` by `make update-ai-defender`.
 - `Makefile` — build tasks. Make is the build tool for this repo.
 
